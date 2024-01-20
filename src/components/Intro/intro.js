@@ -1,6 +1,6 @@
 import React from 'react'
 import './intro.css';
-import bg from '../../assets/young-man-dark-magic-light-background-guy-glasses-virtual-reality-virtual-reality-glass_882954-22459.jpg';
+import bg from '../../assets/info bg.png';
 import btnImg from '../../assets/hireme.png';
 import Resume from '../../assets/Yash Shah Resume.pdf'
 
