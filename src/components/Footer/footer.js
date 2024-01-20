@@ -7,10 +7,10 @@ const Footer = () => {
   return (
     <footer className='footer'>
         Copyright &#169; 2024 Yash Shah.All rights reserved
-        <div className="links">
+        {/* <div className="links">
                     <img src={FacebookIcon} alt="Facebook icon" className="link" />
                     <img src={InstagramIcon} alt="Instagram icon" className="link" />
-                </div>
+                </div> */}
     </footer>
   )
 }
