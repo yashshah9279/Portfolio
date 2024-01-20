@@ -23,7 +23,7 @@ Crafting intuitive and visually engaging user interfaces, I prioritize user expe
                 <img src={WebDesign} alt=""WebDesign className="skillBarimg" />
                 <div className="skillBarText">
                     <h2>Web Design</h2>
-                    <p>I design visually appealing and user-friendly websites using HTML, CSS, and JavaScript, ensuring a seamless and engaging online experience.</p>
+                    <p>I design visually appealing and user-friendly websites using ReactJS, NodeJS,ExpressJS and PostgreSQL, ensuring a seamless and engaging online experience.</p>
                 </div>
             </div>
             <div className="skillBar">
