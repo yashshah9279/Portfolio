@@ -11,6 +11,8 @@ const Contact = () => {
     emailjs.sendForm('service_c5x4kbm', 'template_j9ym8bh', form.current, process.env.REACT_APP_PUBLIC_KEY)
       .then((result) => {
           console.log(result.text);
+          e.target.reset();
+          alert('Email Sent !');
       }, (error) => {
           console.log(error.text);
       });
