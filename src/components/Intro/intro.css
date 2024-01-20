@@ -8,11 +8,11 @@
 }
 .bg{
     position: absolute;  
-    top: -4.5rem;
+    top: -1.5rem;
     right: 0;
     z-index: -1;
     object-fit: cover;
-    height: calc(100vh - 2rem);
+    height: calc(100vh - 0rem);
     opacity: 70%;
 
 }
@@ -76,6 +76,6 @@
 
 @media screen and (max-width:480px) {
     .bg{
-        right: -72vw;
+        right: -79vw;
     }
 }
