@@ -7,9 +7,9 @@ import FullStackDev from '../../assets/full stack logo.jpg';
 const Skills = () => {
   return (
     <section id="skills">
-        <span className="skillTitle">What I do</span>
+        <span className="skillTitle">What I do?</span>
         <span className="skillDesc">
-I am a focused undergrad Electronics and Communication Engineering student at NIT Surat graduating in 2025 with expertise in web development technologies such as ReactJS, NodeJS, and PostgreSQL. I exceled as a Web Developer Intern at Sahaj-anand Charitable Trust during Summer'23, applying my skills in WordPress and project management. My proactive approach and leadership roles define my commitment to excellence.</span>
+I am a focused undergrad Electronics and Communication Engineering student at NIT Surat graduating in 2025 with expertise in web development technologies such as ReactJS, NodeJS, and PostgreSQL. I excelled as a Web Developer Intern at Sahaj-anand Charitable Trust during Summer'23, applying my skills in WordPress and project management. My proactive approach and leadership roles define my commitment to excellence.</span>
         <div className="skillBars">
             <div className="skillBar">
                 <img src={UIDesign} alt="UIDesign" className="skillBarimg" />
