@@ -2,7 +2,7 @@ import React from 'react'
 import './intro.css';
 import bg from '../../assets/info bg.png';
 import btnImg from '../../assets/hireme.png';
-import Resume from '../../assets/Yash Shah Resume.pdf'
+import Resume from '../../assets/Yash Harishbhai Shah resume curr.pdf'
 
 const into = () => {
   return (
