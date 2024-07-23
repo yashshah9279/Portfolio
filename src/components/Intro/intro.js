@@ -9,8 +9,8 @@ const into = () => {
     <section id="intro">
       <div className="introContent">
       <span className="hello">Hello,</span>
-      <span className="introText">I'm <span className="introName">Yash</span> <br /> Website Designer</span>
-      <p className="introPara">I am a skilled web designer with experience in creating <br/> visually appealing and user friendly websites.</p>
+      <span className="introText">I'm <span className="introName">Yash</span> <br /> Website Developer</span>
+      <p className="introPara">I am a skilled web developer with experience in creating <br/> visually appealing and user friendly websites.</p>
       <button className="btn" ><img src={btnImg} alt="download resume" className='btnImg'  /><a href={Resume} download={Resume} style={{textDecoration:"none",color:"black"}}>Resume  </a></button>
       
       </div>

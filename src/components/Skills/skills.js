@@ -1,6 +1,6 @@
 import React from 'react'
 import './skills.css';
-import UIDesign from '../../assets/ui-design.png';
+import ProblemSolving from '../../assets/Problemsolving.jpg';
 import WebDesign from '../../assets/website-design.png';
 import FullStackDev from '../../assets/full stack logo.jpg';
 
@@ -9,21 +9,21 @@ const Skills = () => {
     <section id="skills">
         <span className="skillTitle">What I do?</span>
         <span className="skillDesc">
-I am a focused undergrad Electronics and Communication Engineering student at NIT Surat graduating in 2025 with expertise in web development technologies such as ReactJS, NodeJS, and PostgreSQL. I excelled as a Web Developer Intern at Sahaj-anand Charitable Trust during Summer'23, applying my skills in WordPress and project management. My proactive approach and leadership roles define my commitment to excellence.</span>
+        I am an Electronics and Communication Engineering Final year undergraduate at Sardar Vallabhbhai National Institute of Technology, graduating in 2025, with a current CGPA of 9.06. I specialize in web development technologies such as ReactJS, NodeJS, and PostgreSQL. During Summer 2023, I interned as a Web Developer at Sahaj-anand Charitable Trust, where I honed my skills in WordPress and project management. My commitment to excellence is reflected in my proactive approach and leadership roles, as well as my strong problem-solving abilities demonstrated by solving 650+ problems on GeeksforGeeks, 200+ problems on CodeChef, and 100+ problems on LeetCode.</span>
         <div className="skillBars">
             <div className="skillBar">
-                <img src={UIDesign} alt="UIDesign" className="skillBarimg" />
+                <img src={ProblemSolving} alt="UIDesign" className="skillBarimg" />
                 <div className="skillBarText">
-                    <h2>UI/UX Design</h2>
+                    <h2>Problem Solving</h2>
                     <p>
-Crafting intuitive and visually engaging user interfaces, I prioritize user experience, employing design thinking and usability principles for effectiveness.</p>
+                    Solving complex algorithmic and programming challenges, I leverage my expertise in data structures, competitive programming, and problem-solving strategies to develop efficient and scalable solutions.</p>
                 </div>
             </div>
             <div className="skillBar">
                 <img src={WebDesign} alt=""WebDesign className="skillBarimg" />
                 <div className="skillBarText">
                     <h2>Web Design</h2>
-                    <p>I design visually appealing and user-friendly websites using HTML,CSS and Javascript, ensuring a seamless and engaging online experience.</p>
+                    <p>I design visually appealing and user-friendly websites using HTML, CSS, JavaScript, and ReactJS, ensuring a seamless and engaging online experience.</p>
                 </div>
             </div>
             <div className="skillBar">
@@ -31,7 +31,7 @@ Crafting intuitive and visually engaging user interfaces, I prioritize user expe
                 <div className="skillBarText">
                     <h2>Full Stack Development</h2>
                     <p>
-I utilize HTML, CSS, JS, NodeJS, ExpressJS, PostgreSQL, and GitHub for comprehensive full-stack development, ensuring robust and dynamic web applications.</p>
+                    I utilize HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, PostgreSQL, MongoDB, and GitHub for comprehensive full-stack development, ensuring robust and dynamic web applications.</p>
                 </div>
             </div>
         </div>
